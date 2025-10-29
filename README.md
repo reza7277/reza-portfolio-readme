@@ -93,7 +93,6 @@ I'm available for freelance Python development projects, data analysis consultin
 - **Email:** [contact@reza7277.site](mailto:contact@reza7277.site)
 - **Website:** [reza7277.site](https://reza7277.site)
 - **GitHub:** [github.com/reza7277](https://github.com/reza7277)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/reza7277) *(update with your actual LinkedIn)*
 - **X (Twitter):** [@reza_7277](https://x.com/reza_7277)
 - **Telegram:** [@reza_7277](https://t.me/reza_7277)
 
